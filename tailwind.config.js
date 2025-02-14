@@ -6,9 +6,6 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        sans: ['Plus Jakarta Sans', 'sans-serif'],
-      },
       gridTemplateColumns: {
         '70/30': '70% 28%'
       }
